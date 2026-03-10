@@ -1,5 +1,5 @@
 ### Backend
-## documentación del ejercicio completo
+## documentación del ejercicio completo Parte 1
 https://drive.google.com/drive/folders/1qS9dZGfOQ4UTB8-EBvy73JlypoyS6j2Z?usp=drive_link
 
 
@@ -9,5 +9,10 @@ https://drive.google.com/drive/folders/1qS9dZGfOQ4UTB8-EBvy73JlypoyS6j2Z?usp=dri
 
 ## Prueba la ruta Login
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b255261a-0cac-49b9-aac1-027fcc769454" />
+
+## Verificar la firma en el sitio de https://www.jwt.io/
+ <img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/0f366989-f6e4-43f3-a95f-9b02fe68e285" />
+
+
 
 
